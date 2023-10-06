@@ -1,13 +1,13 @@
 {
-  "name": "سورس ريفز العربي - 𝗥𝗲𝗙𝘇 𝐀𝐑𝐀𝐁𝐈𝐂",
-  "description": " اهلابك في تنصيب تلثيون ريفز - ",
-  "logo": "https://graph.org/file/125e6d56153a52a90659c.jpg",
+  "name": "سورس ريزر العربي - RIZER ARABIC",
+  "description": " اهلا بك في تنصيب تلثيون ريفز - ",
+  "logo": "https://telegra.ph/file/25ba410af31d6e8330b79.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/githupsource/source_reefz",
+  "repository": "https://github.com/btbbq/source_rizeer",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيره ابداً",
-      "value": "https://github.com/githupsource/source_reefz",
+      "value": "https://github.com/btbbq/source_rizeer",
       "required": false
     }
     },
